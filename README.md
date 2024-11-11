@@ -3,7 +3,7 @@
 
 **`IT Consultant | Software Developer`**
 
-I'm a full-stack developer from Paffing near Rosenheim. My main focus is to develop web and app projects.
+I'm a full-stack developer from Pfaffing near Rosenheim. My main focus is to develop web and app projects.
 - Since 2015 - 2018: Developing web projects with Python and Django.
 - Since 2018 - present: Changed my focus to more frontend development with React JS and Redux
 - Since 2019 - present: Developing web projects with Gatsby JS, GraphQL and Headless CMS like Contentful
