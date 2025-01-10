@@ -43,6 +43,7 @@ I'm a full-stack developer from Pfaffing near Rosenheim. My main focus is to dev
 
 <picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /></picture>
 <picture><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></picture>
+<picture><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></picture>
 <picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></picture>
 
           
