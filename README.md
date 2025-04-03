@@ -63,6 +63,6 @@ I'm a Fullstack Software Engineer from Pfaffing near Rosenheim. My main focus is
 ### :phone: How to reach me
 
 [<picture><img  align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://www.heftigewebseiten.de/static/8f2bcdc01dd4fc92a396006f93b7909b/1d67c/profil.webp" /></picture>](https://www.freelancermap.com/profile/thomas-de-cicco)
-[<picture><img  align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></picture>]((https://www.linkedin.com/in/thomas-de-cicco-207658200))
+[<picture><img  align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></picture>](https://www.linkedin.com/in/thomas-de-cicco-207658200)
 [<picture><img  align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://www.heftigewebseiten.de/static/d1522b7901e856d29330f8f480d01505/5ba9d/heftig-logo.webp" /></picture>](https://www.heftigewebseiten.de/)
 
