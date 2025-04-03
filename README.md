@@ -10,6 +10,13 @@ I'm a Fullstack Software Engineer from Pfaffing near Rosenheim. My main focus is
 - Since 2020: Developing mobile apps with React Native
 - Since 2021: Developing software solutions with Next JS 
 - Since 2022: Started to develop mobile apps with Flutter and I felt in love with it ❤️
+- Since 2024: Devolping REST APIs with Python and FastAPI
+- Current techstack:
+  
+            -> Web Frontend: Next.js / Gatsby.js, React Query, Zustand, Tailwind, Shadcn, Zod
+            -> Mobile Frontend: Flutter
+            -> Backend: Python, FastAPI, Firebase
+            -> CMS: Contentful
 
 ---
 
@@ -22,16 +29,16 @@ I'm a Fullstack Software Engineer from Pfaffing near Rosenheim. My main focus is
 <picture><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></picture>
 
 <picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" /></picture>
-<picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></picture>
+<picture><img align="left" alt="Nexstjs" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></picture>
           
 
 <picture><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></picture>
-<picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></picture>
+<picture><img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></picture>
 
 <picture><img  align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></picture>
 
 
-<picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /></picture>
+<picture><img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /></picture>
           
 <picture><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></picture>         
           
@@ -41,10 +48,12 @@ I'm a Fullstack Software Engineer from Pfaffing near Rosenheim. My main focus is
 <picture><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></picture>
 
 
-<picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /></picture>
+<picture><img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /></picture>
 <picture><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></picture>
-<picture><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></picture>
-<picture><img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></picture>
+<picture><img align="left" alt="FastAPi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></picture>
+<picture><img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></picture>
+<picture><img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></picture>
+
 
           
 <br />
