@@ -1,15 +1,15 @@
 
 # Thomas De Cicco
 
-**`IT Consultant | Software Developer`**
+**`Fullstack Software Engineer`**
 
-I'm a full-stack developer from Pfaffing near Rosenheim. My main focus is to develop web and app projects.
-- Since 2015 - present: Developing web projects with Python and Django.
-- Since 2018 - present: Changed my focus to more frontend development with React JS and Redux
-- Since 2019 - present: Developing web projects with Gatsby JS, GraphQL and Headless CMS like Contentful
-- Since 2020 - 2022: Developing mobile apps with React Native
-- Since 2021- present: Developing web projects with Next JS 
-- Since 2022 - present: Started to develop mobile apps with Flutter and I felt in love with it ❤️
+I'm a Fullstack Software Engineer from Pfaffing near Rosenheim. My main focus is to develop web and app projects.
+- Since 2015: Developing web projects with Python and Django.
+- Since 2018: Changed my focus to more frontend development with React
+- Since 2019: Developing small web projects with Gatsby JS, GraphQL and Headless CMS like Contentful
+- Since 2020: Developing mobile apps with React Native
+- Since 2021: Developing software solutions with Next JS 
+- Since 2022: Started to develop mobile apps with Flutter and I felt in love with it ❤️
 
 ---
 
